@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋, I'm Mohamed El_Barbary</h2> 
+<h1 align="left">Hi 👋, I'm Mohamed El_Barbary</h1> 
 🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </br>
 🌍 Available now for freelance work — let’s build something amazing together </br>  
 🧠 Exploring the world of Back-End as a .NET Developer in progress  </br>
@@ -9,7 +9,7 @@
 
 ###
 
-<h2>Tech stack</h2>
+<h1>Tech stack</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,6 +54,7 @@
 
 ###
 
+<h1>Contact</h1>
 <div align="left">
   <a href="mohamedelbarbary511@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
