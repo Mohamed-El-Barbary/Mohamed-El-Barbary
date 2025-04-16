@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋, I'm Mohamed El_Barbary<h2> 
+<h2 align="left">Hi 👋, I'm Mohamed El_Barbary</h2> 
 🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </br>
 🌍 Available now for freelance work — let’s build something amazing together </br>  
 🧠 Exploring the world of Back-End as a .NET Developer in progress  </br>
