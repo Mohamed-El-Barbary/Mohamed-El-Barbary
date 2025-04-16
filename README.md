@@ -9,7 +9,7 @@
 
 ###
 
-<h1>Tech stack</h1>
+<h1>Tech Stack</h1>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
   <img width="6" />
