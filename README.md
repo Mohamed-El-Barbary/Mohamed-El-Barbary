@@ -1,7 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<h2 align="left">Hi 👋, I'm Mohamed El_Barbary<h2> 
+<p>🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </p>
+<p>🌍 Available now for freelance work — let’s build something amazing together </p>  
+<p>🧠 Exploring the world of Back-End as a .NET Developer in progress  </p>
+<p>🎓 Computer Science student on a journey to become a full-stack wizard  </p>
+<p>🌱 Always curious, constantly learning, and pushing the limits of what I can create</p>
 
 ###
-<h2>Tech Stack </h2>
+
+<h2>Tech stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
