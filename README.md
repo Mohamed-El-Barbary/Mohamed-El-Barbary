@@ -1,11 +1,11 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋, I'm Mohamed El_Barbary<h2> 
-<p>🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </p>
-<p>🌍 Available now for freelance work — let’s build something amazing together </p>  
-<p>🧠 Exploring the world of Back-End as a .NET Developer in progress  </p>
-<p>🎓 Computer Science student on a journey to become a full-stack wizard  </p>
-<p>🌱 Always curious, constantly learning, and pushing the limits of what I can create</p>
+🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </br>
+🌍 Available now for freelance work — let’s build something amazing together </br>  
+🧠 Exploring the world of Back-End as a .NET Developer in progress  </br>
+🎓 Computer Science student on a journey to become a full-stack wizard  </br>
+🌱 Always curious, constantly learning, and pushing the limits of what I can create</br>
 
 ###
 
