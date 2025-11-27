@@ -1,10 +1,10 @@
 <br clear="both">
 
 <h1 align="left">Hi 👋, I'm Mohamed El_Barbary</h1> 
-🚀 Passionate Front-End Developer crafting beautiful, responsive interfaces with care  </br>
+🚀 Passionate Full-Stack Developer crafting beautiful, responsive interfaces and powerful back-end systems </br>
 🌍 Available now for freelance work — let’s build something amazing together </br>  
-🧠 Exploring the world of Back-End as a .NET Developer in progress  </br>
-🎓 Computer Science student on a journey to become a full-stack wizard  </br>
+🧠 Skilled in Back-End development with ASP.NET Core </br>
+🎓 Computer Science student on a journey to master full-stack development </br>
 🌱 Always curious, constantly learning, and pushing the limits of what I can create</br>
 
 ###
