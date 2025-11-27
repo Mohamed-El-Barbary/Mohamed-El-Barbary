@@ -12,49 +12,49 @@
 <h1>Tech Stack</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=rider" height="45" alt="rider logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="45" alt="notion logo"  />
 </div>
 
