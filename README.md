@@ -1,5 +1,3 @@
-update this readme :
-delete my sql add Ef Core , And Mapper And asp net etc 
 <br clear="both">
 
 <h1 align="left">Hi 👋, I'm Mohamed El_Barbary</h1> 
@@ -13,45 +11,51 @@ delete my sql add Ef Core , And Mapper And asp net etc
 
 <h1>Tech Stack</h1>
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="27" alt="bootstrap logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="27" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="27" alt="jquery logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="27" alt="tailwindcss logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="27" alt="sass logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="27" alt="angularjs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="27" alt="figma logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="27" alt="git logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="27" alt="github logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="27" alt="csharp logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="27" alt="firebase logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="27" alt="visualstudio logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="27" alt="linux logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="27" alt="jupyter logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="27" alt="anaconda logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=rider" height="45" alt="rider logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=notion" height="45" alt="notion logo"  />
 </div>
 
 ###
