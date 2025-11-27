@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Mohamed El_Barbary</h1> 
 🚀 Passionate Full-Stack Developer crafting beautiful, responsive interfaces and powerful back-end systems </br>
 🌍 Available now for freelance work — let’s build something amazing together </br>  
-🧠 Skilled in Back-End development with ASP.NET Core </br>
+🧠 Skilled in Front-End development with Angular & Back-End development with ASP.NET Core </br>
 🎓 Computer Science student on a journey to master full-stack development </br>
 🌱 Always curious, constantly learning, and pushing the limits of what I can create</br>
 
