@@ -30,9 +30,10 @@ Passionate about building scalable, secure, and high-performance web application
 <img src="https://skillicons.dev/icons?i=cs" height="45"/>
 <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
 <img src="https://skillicons.dev/icons?i=redis" height="45"/>
+<img src="https://skillicons.dev/icons?i=php,laravel" height="45"/>
 </p>
 
-**ASP.NET Core • Web API • Entity Framework Core • LINQ • ASP.NET Identity • JWT Authentication • Clean Architecture • CQRS • Repository Pattern • Unit of Work • Specification Pattern • SignalR • RESTful APIs**
+**ASP.NET Core • Web API • Entity Framework Core • LINQ • ASP.NET Identity • JWT Authentication • Clean Architecture • CQRS • Repository Pattern • Unit of Work • Specification Pattern • SignalR • RESTful APIs • PHP • Laravel**
 
 ---
 
