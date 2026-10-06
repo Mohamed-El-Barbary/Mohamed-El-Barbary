@@ -12,13 +12,14 @@ Passionate about building scalable, secure, and high-performance web application
 
 ## 🚀 About Me
 
-- 💻 .NET Backend Developer specializing in **ASP.NET Core** & **C#**
-- 🌐 Experienced in **Full-Stack Development** using **Angular**
-- 🏗️ Passionate about **Clean Architecture, CQRS, SOLID Principles, and Design Patterns**
-- ☁️ Interested in **Cloud Computing, Docker, CI/CD, Redis, and Microsoft Azure**
-- 🎓 Computer Science Graduate
-- 🌱 Continuously learning new technologies and building production-ready applications
-- 💼 Open to **Full-Time, Internship, and Freelance** opportunities
+* 💻 **Junior Full-Stack Developer** specializing in **C#, ASP.NET Core, and Angular**
+* 🌐 Building **end-to-end web applications** with modern backend and frontend technologies
+* 🏗️ Applying **Clean Architecture, CQRS, SOLID Principles, Design Patterns, and scalable software design** in my projects
+* 🗄️ Experienced with **Entity Framework Core, SQL Server, PostgreSQL, Redis, and RESTful APIs**
+* ⚙️ Familiar with **Docker, CI/CD, Cloud Computing, and Microsoft Azure**
+* 🎓 **Computer Science Graduate** from Tanta University
+* 🌱 Continuously improving my **software engineering and problem-solving skills** through hands-on projects
+* 💼 Open to **Full-Time, Internship, and Freelance** opportunities
 
 ---
 
